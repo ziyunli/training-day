@@ -124,3 +124,9 @@ fabric.properties
 # End of https://www.toptal.com/developers/gitignore/api/intellij
 
 .idea
+
+/clj-kondo
+**/.clj-kondo/.cache
+performance.txt
+clj-kondo*.snap
+.planck_cache
